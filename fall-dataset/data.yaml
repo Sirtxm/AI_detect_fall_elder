@@ -1,0 +1,14 @@
+path: C:/ProjectHIU/fall-dataset
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 1
+names: ['fall']
+
+roboflow:
+  workspace: xidian-university-nr7pj
+  project: fall-ma736
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/xidian-university-nr7pj/fall-ma736/dataset/1
